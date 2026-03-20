@@ -87,7 +87,7 @@ USE_DEVICE_SPECIFIC_CAMERA := true
 TARGET_CAMERA_SERVICE_EXT_LIB := //$(VENDOR_PATH):libcameraservice_extension.opsm8150
 
 # FOD
-TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/oneplus:libudfps_extension.oneplus
+# TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/oneplus:libudfps_extension.oneplus
 
 # Display
 MAX_VIRTUAL_DISPLAY_DIMENSION := 4096
